@@ -1,0 +1,25 @@
+c:\users\georges beast\documents\visual studio 2010\Projects\ConvexHull\ConvexHull\bin\Debug\ConvexHull.exe
+c:\users\georges beast\documents\visual studio 2010\Projects\ConvexHull\ConvexHull\bin\Debug\ConvexHull.pdb
+c:\users\georges beast\documents\visual studio 2010\Projects\ConvexHull\ConvexHull\obj\x86\Debug\ConvexHull.convexHull.resources
+c:\users\georges beast\documents\visual studio 2010\Projects\ConvexHull\ConvexHull\obj\x86\Debug\ConvexHull.Properties.Resources.resources
+c:\users\georges beast\documents\visual studio 2010\Projects\ConvexHull\ConvexHull\obj\x86\Debug\ConvexHull.csproj.GenerateResource.Cache
+c:\users\georges beast\documents\visual studio 2010\Projects\ConvexHull\ConvexHull\obj\x86\Debug\ConvexHull.exe
+c:\users\georges beast\documents\visual studio 2010\Projects\ConvexHull\ConvexHull\obj\x86\Debug\ConvexHull.pdb
+C:\Users\Georges Beast\Documents\Visual Studio 2010\Projects\ConvexHull\ConvexHull\obj\x86\Debug\ConvexHull.csprojResolveAssemblyReference.cache
+C:\Users\George Allen\Dropbox\ConvexHull\ConvexHull\obj\x86\Debug\ConvexHull.exe
+C:\Users\George Allen\Dropbox\ConvexHull\ConvexHull\obj\x86\Debug\ConvexHull.pdb
+C:\Users\George Allen\Dropbox\ConvexHull\ConvexHull\bin\Debug\ConvexHull.exe
+C:\Users\George Allen\Dropbox\ConvexHull\ConvexHull\bin\Debug\ConvexHull.pdb
+C:\Users\George Allen\Dropbox\ConvexHull\ConvexHull\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\George Allen\Dropbox\ConvexHull\ConvexHull\obj\x86\Debug\ConvexHull.convexHull.resources
+C:\Users\George Allen\Dropbox\ConvexHull\ConvexHull\obj\x86\Debug\ConvexHull.Properties.Resources.resources
+C:\Users\George Allen\Dropbox\ConvexHull\ConvexHull\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\George Allen\Dropbox\ConvexHull\ConvexHull\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Georges Beast\Dropbox\ConvexHull\ConvexHull\obj\x86\Debug\ConvexHull.exe
+C:\Users\Georges Beast\Dropbox\ConvexHull\ConvexHull\obj\x86\Debug\ConvexHull.pdb
+C:\Users\Georges Beast\Dropbox\ConvexHull\ConvexHull\bin\Debug\ConvexHull.exe
+C:\Users\Georges Beast\Dropbox\ConvexHull\ConvexHull\bin\Debug\ConvexHull.pdb
+C:\Users\Georges Beast\Dropbox\ConvexHull\ConvexHull\obj\x86\Debug\ConvexHull.csprojResolveAssemblyReference.cache
+C:\Users\Georges Beast\Dropbox\ConvexHull\ConvexHull\obj\x86\Debug\ConvexHull.convexHull.resources
+C:\Users\Georges Beast\Dropbox\ConvexHull\ConvexHull\obj\x86\Debug\ConvexHull.Properties.Resources.resources
+C:\Users\Georges Beast\Dropbox\ConvexHull\ConvexHull\obj\x86\Debug\ConvexHull.csproj.GenerateResource.Cache
